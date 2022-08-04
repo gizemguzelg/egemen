@@ -1,0 +1,4 @@
+data,accuracy,precision,recall,f1
+test,0.6091370558375635
+train,0.6004366812227074
+time,0:16:33.381691
